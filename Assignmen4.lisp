@@ -48,3 +48,5 @@
                                 ;Prints the equation
                                 (println (infix A) '= (infix B)) ) ) ) ) ) ) )
 
+;;;; Sources:
+;;;; http://picolisp.com/wiki/?99pp93
