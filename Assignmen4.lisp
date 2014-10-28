@@ -49,4 +49,5 @@
                                 (println (infix A) '= (infix B)) ) ) ) ) ) ) )
 
 ;;;; Sources:
+;;;; Burger, Alexander. "PicoLisp Wiki: 99pp93." PicoLisp Wiki: 99pp93. Alexander Burger, 23 July 2010. Web. 24 Oct. 2014.
 ;;;; http://picolisp.com/wiki/?99pp93
